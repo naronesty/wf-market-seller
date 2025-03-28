@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Creds
+credentials.txt
+cookie.txt
+sell_list.txt
