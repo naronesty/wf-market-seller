@@ -175,4 +175,4 @@ cython_debug/
 
 # Creds
 credentials.json
-sell_list.txt
+sell_list*.txt
